@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.note-container {
+    background: #fffef6;
+    border-radius: 1rem;
+    padding: 2rem;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.05);
+    max-width: 750px;
+    margin: 2rem auto;
+}
+
+.handwritten-text {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.35rem;
+    white-space: pre-wrap;
+    line-height: 2;
+    color: #333;
+    overflow-y: hidden;
+}

@@ -11,3 +11,59 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* In your CSS file */
+.handwritten-note {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 1.2rem;
+  white-space: pre-line;
+  line-height: 1.8;
+  background: #fffef2;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.itemCard:hover {
+  box-shadow: 4px 4px rgba(20, 0, 0, 0.5);
+  scale: 1.05;
+}
+
+body {
+  background-color: rgba(193, 193, 193, 0.817);
+}
+
+.iitp-hero {
+  background: linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)),
+    url('./components/img/campus.jpeg') center/cover no-repeat;
+  text-align: center;
+  padding: 2rem 1rem;
+  color: #800000;
+  font-family: 'Merriweather', serif;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.iitp-logo {
+  width: 100px;
+  margin-bottom: 1rem;
+}
+
+
+/* Footer Section */
+.iitp-footer {
+  background-color: #800000;
+  color: white;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  margin-top: 4rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.iitp-footer a {
+  color: #ffdada;
+  text-decoration: none;
+}
+
+.iitp-footer a:hover {
+  text-decoration: underline;
+}
