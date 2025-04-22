@@ -11,7 +11,6 @@ Thank you for being the teachers who shaped our journey.
 
 With deep respect and gratitude,  
 Parth Trivedi
-CE21B024
 8764361770
 `;
 

@@ -27,7 +27,7 @@ const ThankYouProfessors = () => {
                   <hr />
                   — With gratitude,
                   <br />
-                  Parth Trivedi <br /> CE21B024
+                  Parth Trivedi
                 </Card.Text>
               </Card.Body>
             </Card>
